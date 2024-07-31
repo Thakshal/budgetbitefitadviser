@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "854089786331",
+    "project_id": "budgetbitfitadviser",
+    "storage_bucket": "budgetbitfitadviser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854089786331:android:868192e79ce09849e03dfe",
+        "android_client_info": {
+          "package_name": "com.example.budgetbitefitadviser_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX3UNVUUnVoQwCWJ5hLnJgzVr_DXqLDKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

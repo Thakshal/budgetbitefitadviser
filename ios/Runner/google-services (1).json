@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "793051108575",
+    "project_id": "budgetbitefitadviser1",
+    "storage_bucket": "budgetbitefitadviser1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793051108575:android:0d39f2b94ba405c8b1856a",
+        "android_client_info": {
+          "package_name": "com.example.budgetbitefitadviser1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfJz73gKy6GnEtmKE50oqBn6-cK_0Z8wA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793051108575:android:bf586abc87b07b65b1856a",
+        "android_client_info": {
+          "package_name": "com.example.budgetbitefitadviser_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfJz73gKy6GnEtmKE50oqBn6-cK_0Z8wA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
